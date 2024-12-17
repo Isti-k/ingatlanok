@@ -1,6 +1,7 @@
 
 import './App.css';
 
+
 function App(props) {
   return (
     <div className="App">
@@ -16,7 +17,12 @@ function App(props) {
             <th>Tehermentes</th>
           </tr>
           <tr>
-            Ingal
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
           </tr>
         </table>
       </body>
