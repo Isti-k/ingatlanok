@@ -16,14 +16,7 @@ function App(props) {
             <th>Hírdetés dátuma</th>
             <th>Tehermentes</th>
           </tr>
-          <tr>
-          <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-          </tr>
-          </tr>
+          
         </table>
       </body>
     </div>
